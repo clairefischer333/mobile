@@ -18450,11 +18450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/student/Projects/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/Users/student/Projects/mobile/HelloWorld/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/student/Projects/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/Users/student/Projects/mobile/HelloWorld/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/student/.nuget/packages/",
-      "outputPath": "/Users/student/Projects/HelloWorld/HelloWorld/obj/",
+      "outputPath": "/Users/student/Projects/mobile/HelloWorld/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

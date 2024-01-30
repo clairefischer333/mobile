@@ -21,7 +21,7 @@
 
         <Label x:Name="lblDisplay" Padding="0,35" Text="0" HorizontalOptions="Center" FontSize="40" FontAttributes="Bold"/>           
          
-        <Button Text="Add" Clicked="Add_Clicked" />
+        <Button Text="Add" Clicked="Add_Clicked" /> 
         <Button Text="Clear" Clicked="Clear_Clicked" />
 
         </VerticalStackLayout>

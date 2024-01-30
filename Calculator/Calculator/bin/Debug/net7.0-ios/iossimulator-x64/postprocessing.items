@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>Calculator.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/student/Projects/Calculator/Calculator/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/student/Projects/mobile/Calculator/Calculator/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>Calculator.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/student/Projects/Calculator/Calculator</SourceProjectPath>
+      <SourceProjectPath>/Users/student/Projects/mobile/Calculator/Calculator</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

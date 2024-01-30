@@ -12,33 +12,33 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = HelloWorld
-build_property.ProjectDir = /Users/student/Projects/HelloWorld/HelloWorld/
+build_property.ProjectDir = /Users/student/Projects/mobile/HelloWorld/HelloWorld/
 
-[/Users/student/Projects/HelloWorld/HelloWorld/App.xaml]
+[/Users/student/Projects/mobile/HelloWorld/HelloWorld/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HelloWorld.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[/Users/student/Projects/HelloWorld/HelloWorld/AppShell.xaml]
+[/Users/student/Projects/mobile/HelloWorld/HelloWorld/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HelloWorld.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[/Users/student/Projects/HelloWorld/HelloWorld/MainPage.xaml]
+[/Users/student/Projects/mobile/HelloWorld/HelloWorld/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HelloWorld.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[/Users/student/Projects/HelloWorld/HelloWorld/Resources/Styles/Colors.xaml]
+[/Users/student/Projects/mobile/HelloWorld/HelloWorld/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HelloWorld.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
 
-[/Users/student/Projects/HelloWorld/HelloWorld/Resources/Styles/Styles.xaml]
+[/Users/student/Projects/mobile/HelloWorld/HelloWorld/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HelloWorld.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml

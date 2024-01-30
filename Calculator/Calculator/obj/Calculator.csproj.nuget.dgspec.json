@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/student/Projects/Calculator/Calculator/Calculator.csproj": {}
+    "/Users/student/Projects/mobile/Calculator/Calculator/Calculator.csproj": {}
   },
   "projects": {
-    "/Users/student/Projects/Calculator/Calculator/Calculator.csproj": {
+    "/Users/student/Projects/mobile/Calculator/Calculator/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/student/Projects/Calculator/Calculator/Calculator.csproj",
+        "projectUniqueName": "/Users/student/Projects/mobile/Calculator/Calculator/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/Users/student/Projects/Calculator/Calculator/Calculator.csproj",
+        "projectPath": "/Users/student/Projects/mobile/Calculator/Calculator/Calculator.csproj",
         "packagesPath": "/Users/student/.nuget/packages/",
-        "outputPath": "/Users/student/Projects/Calculator/Calculator/obj/",
+        "outputPath": "/Users/student/Projects/mobile/Calculator/Calculator/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

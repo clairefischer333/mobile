@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HrYsMVbxKgoZq1rY87sl2zcygYsVH2RTUCL23Ob7Ui5PwuzKlGcgx51JXKbuAuE99Qc5BbH8xkf1/Z8jrepg6w==",
+  "dgSpecHash": "mu42szmyxTe4Fju30TySKkkxe7haLbiIJE+7wXW7FoThntrSJoAo4nrcaEYnIgCXMJGh6+ol3PdjpBtgOQLxwQ==",
   "success": true,
-  "projectFilePath": "/Users/student/Projects/HelloWorld/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/Users/student/Projects/mobile/HelloWorld/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [
     "/Users/student/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/student/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
