@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RjqrExAVcYJJyUeRlaeDlwm0xZUYTrKUCsfXf1AkUuy74xkOEDcuhMIBi2ywbTRN4v0CVomxQYgNzuoU2B715A==",
+  "dgSpecHash": "0VHLW/Ury5rNAiKkAt8hSyK8rCbjJOi3dIT9OZK3y39YHOFgQLSLLpaGQUkXjhu+ZUAYjzaLn0RhcdvFW01rLg==",
   "success": true,
-  "projectFilePath": "/Users/student/Projects/TimerPro/TimerPro/TimerPro.csproj",
+  "projectFilePath": "/Users/student/Projects/mobile/TimerPro/TimerPro/TimerPro.csproj",
   "expectedPackageFiles": [
     "/Users/student/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/student/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",

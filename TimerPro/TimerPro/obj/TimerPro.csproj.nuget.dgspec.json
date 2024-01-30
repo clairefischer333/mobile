@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/student/Projects/TimerPro/TimerPro/TimerPro.csproj": {}
+    "/Users/student/Projects/mobile/TimerPro/TimerPro/TimerPro.csproj": {}
   },
   "projects": {
-    "/Users/student/Projects/TimerPro/TimerPro/TimerPro.csproj": {
+    "/Users/student/Projects/mobile/TimerPro/TimerPro/TimerPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/student/Projects/TimerPro/TimerPro/TimerPro.csproj",
+        "projectUniqueName": "/Users/student/Projects/mobile/TimerPro/TimerPro/TimerPro.csproj",
         "projectName": "TimerPro",
-        "projectPath": "/Users/student/Projects/TimerPro/TimerPro/TimerPro.csproj",
+        "projectPath": "/Users/student/Projects/mobile/TimerPro/TimerPro/TimerPro.csproj",
         "packagesPath": "/Users/student/.nuget/packages/",
-        "outputPath": "/Users/student/Projects/TimerPro/TimerPro/obj/",
+        "outputPath": "/Users/student/Projects/mobile/TimerPro/TimerPro/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

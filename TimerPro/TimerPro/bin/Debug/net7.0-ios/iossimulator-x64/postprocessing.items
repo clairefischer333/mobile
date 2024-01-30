@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>TimerPro.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/student/Projects/TimerPro/TimerPro/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/student/Projects/mobile/TimerPro/TimerPro/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>TimerPro.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/student/Projects/TimerPro/TimerPro</SourceProjectPath>
+      <SourceProjectPath>/Users/student/Projects/mobile/TimerPro/TimerPro</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

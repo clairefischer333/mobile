@@ -3,7 +3,7 @@ namespace TimerPro;
 
 public partial class MainPage : ContentPage
 {
-    private const bool @false = false;
+    
     TimerLogic oTimerLogic = new TimerLogic();
     bool isRunning;
 
@@ -20,8 +20,6 @@ public partial class MainPage : ContentPage
         isRunning = true;
 
         Dispatcher.StartTimer(TimeSpan.FromSeconds(1), () => {
-            oTimerLogic.SetTickCount();
-            lblDisplay.Text = oTimerLogic.GetFormattedString();
             if(isRunning)
             {
                 oTimerLogic.SetTickCount();
