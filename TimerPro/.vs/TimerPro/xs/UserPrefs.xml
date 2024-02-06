@@ -2,14 +2,14 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="TimerPro/MainPage.xaml.cs">
     <Files>
       <File FileName="TimerPro/MainPage.xaml.cs" Line="23" Column="1" />
-      <File FileName="TimerPro/Custom/TimerLogic.cs" Line="22" Column="27" />
       <File FileName="TimerPro/MainPage.xaml" Line="15" Column="55" />
+      <File FileName="TimerPro/Custom/TimerLogic.cs" Line="38" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TimerPro">
-            <Node name="TimerPro">
+          <Node name="TimerPro" expanded="True">
+            <Node name="TimerPro" expanded="True">
               <Node name="Custom" expanded="True" />
               <Node name="MainPage.xaml" expanded="True">
                 <Node name="MainPage.xaml.cs" selected="True" />
@@ -20,12 +20,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.TimerPro PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
 </Properties>
