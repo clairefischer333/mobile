@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>DateNight.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/student/Projects/DateNight/DateNight/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/student/Projects/mobile/DateNight/DateNight/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>DateNight.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/student/Projects/DateNight/DateNight</SourceProjectPath>
+      <SourceProjectPath>/Users/student/Projects/mobile/DateNight/DateNight</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

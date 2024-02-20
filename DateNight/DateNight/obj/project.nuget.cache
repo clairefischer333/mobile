@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xDO9myNUTqVZOnThmEUBYFMLWjCFQz8mAuVe0966C/jjLb8+f1xB24o6DtBkvPC9A/T80vijTZH93Ji5o0vNIg==",
+  "dgSpecHash": "25PXW5rlpvQKBkvklKfWrjHCYYEBnoTsnYuG/OtkhQ8Vk9LHi1zIL40QSdfw5O4PhRSre4+K9o8DFC0RzUxacQ==",
   "success": true,
-  "projectFilePath": "/Users/student/Projects/DateNight/DateNight/DateNight.csproj",
+  "projectFilePath": "/Users/student/Projects/mobile/DateNight/DateNight/DateNight.csproj",
   "expectedPackageFiles": [
     "/Users/student/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/student/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",

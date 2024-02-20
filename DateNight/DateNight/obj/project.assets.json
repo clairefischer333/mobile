@@ -18450,11 +18450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/student/Projects/DateNight/DateNight/DateNight.csproj",
+      "projectUniqueName": "/Users/student/Projects/mobile/DateNight/DateNight/DateNight.csproj",
       "projectName": "DateNight",
-      "projectPath": "/Users/student/Projects/DateNight/DateNight/DateNight.csproj",
+      "projectPath": "/Users/student/Projects/mobile/DateNight/DateNight/DateNight.csproj",
       "packagesPath": "/Users/student/.nuget/packages/",
-      "outputPath": "/Users/student/Projects/DateNight/DateNight/obj/",
+      "outputPath": "/Users/student/Projects/mobile/DateNight/DateNight/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
