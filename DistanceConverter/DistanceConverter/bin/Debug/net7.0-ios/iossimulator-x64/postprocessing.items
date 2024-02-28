@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>DistanceConverter.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/student/Projects/DistanceConverter/DistanceConverter/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/student/Projects/mobile/DistanceConverter/DistanceConverter/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>DistanceConverter.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/student/Projects/DistanceConverter/DistanceConverter</SourceProjectPath>
+      <SourceProjectPath>/Users/student/Projects/mobile/DistanceConverter/DistanceConverter</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

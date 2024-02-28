@@ -18450,11 +18450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter.csproj",
+      "projectUniqueName": "/Users/student/Projects/mobile/DistanceConverter/DistanceConverter/DistanceConverter.csproj",
       "projectName": "DistanceConverter",
-      "projectPath": "/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter.csproj",
+      "projectPath": "/Users/student/Projects/mobile/DistanceConverter/DistanceConverter/DistanceConverter.csproj",
       "packagesPath": "/Users/student/.nuget/packages/",
-      "outputPath": "/Users/student/Projects/DistanceConverter/DistanceConverter/obj/",
+      "outputPath": "/Users/student/Projects/mobile/DistanceConverter/DistanceConverter/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

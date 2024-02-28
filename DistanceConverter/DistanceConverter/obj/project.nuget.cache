@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a+IxKMxzwkcYeUQ9ucRxAw+9A0F/KC4nCJCCctcMchzzVmXglfG5SAZAu2oDEFTwxB3s7tHIj0KJnBkYcrpdQg==",
+  "dgSpecHash": "+SecTrHttvXGKtrSWavF0rh0IyBpMDkTEjnOkrFjujKhpc0LVQMq8Z7EgrowYMwjLKwzhpdOy0z/MwWIhXGQeQ==",
   "success": true,
-  "projectFilePath": "/Users/student/Projects/DistanceConverter/DistanceConverter/DistanceConverter.csproj",
+  "projectFilePath": "/Users/student/Projects/mobile/DistanceConverter/DistanceConverter/DistanceConverter.csproj",
   "expectedPackageFiles": [
     "/Users/student/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/student/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
