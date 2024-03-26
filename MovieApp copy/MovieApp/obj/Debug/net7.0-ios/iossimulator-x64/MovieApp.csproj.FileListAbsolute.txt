@@ -995,4 +995,7 @@
 /Users/student/Projects/mobile/MovieApp copy/MovieApp/bin/Debug/net7.0-ios/iossimulator-x64/SQLitePCLRaw.core.dll
 /Users/student/Projects/mobile/MovieApp copy/MovieApp/bin/Debug/net7.0-ios/iossimulator-x64/SQLitePCLRaw.provider.dynamic_cdecl.dll
 /Users/student/Projects/mobile/MovieApp copy/MovieApp/bin/Debug/net7.0-ios/iossimulator-x64/SQLitePCLRaw.provider.sqlite3.dll
-/Users/student/Projects/mobile/MovieApp copy/MovieApp/obj/Debug/net7.0-ios/iossimulator-x64/resourcestamps/SQLitePCLRaw.provider.sqlite3.stamp
+/Users/student/Projects/mobile/MovieApp copy/MovieApp/obj/Debug/net7.0-ios/iossimulator-x64/resourcestamps/SQLite-net.stamp
+/Users/student/Projects/mobile/MovieApp copy/MovieApp/obj/Debug/net7.0-ios/iossimulator-x64/resourcestamps/SQLitePCLRaw.batteries_v2.stamp
+/Users/student/Projects/mobile/MovieApp copy/MovieApp/obj/Debug/net7.0-ios/iossimulator-x64/resourcestamps/SQLitePCLRaw.core.stamp
+/Users/student/Projects/mobile/MovieApp copy/MovieApp/obj/Debug/net7.0-ios/iossimulator-x64/resourcestamps/SQLitePCLRaw.provider.dynamic_cdecl.stamp
