@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0et+FmfPwYkawpUw19GOm9Z4IltfGEmzk7R8wTsa8hAn97Dw3Cbwc8lqkI7fc5QRMxvW3qCafiJVFjd57/37Wg==",
+  "dgSpecHash": "URas8gFjej3cBKe7Ts/1qu6uedPaxlNfbhl5rtJZYBmGl3LsT1GgoJV0xyekxvi7l3MVD7X/o52opZzwn1evxA==",
   "success": true,
-  "projectFilePath": "/Users/student/Projects/Marathon/Marathon/Marathon.csproj",
+  "projectFilePath": "/Users/student/Projects/mobile/Marathon/Marathon/Marathon.csproj",
   "expectedPackageFiles": [
     "/Users/student/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/student/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",

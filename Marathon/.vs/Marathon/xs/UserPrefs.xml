@@ -1,16 +1,21 @@
 ﻿<Properties StartupConfiguration="{2784B80B-43BB-41FF-9328-DBEC33DE98DF}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Marathon PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Marathon/MainPage.xaml.cs">
     <Files>
-      <File FileName="Marathon/MainPage.xaml" Line="13" Column="12" />
+      <File FileName="Marathon/MainPage.xaml" Line="20" Column="1" />
       <File FileName="Marathon/MainPage.xaml.cs" Line="61" Column="42" />
-      <File FileName="Marathon/Models/race.cs" Line="14" Column="2" />
-      <File FileName="Marathon/Models/results.cs" Line="7" Column="39" />
+      <File FileName="Marathon/Models/race.cs" Line="17" Column="1" />
+      <File FileName="Marathon/Models/results.cs" Line="5" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Marathon" expanded="True">
+          <Node name="Marathon">
             <Node name="Marathon" expanded="True">
               <Node name="Models" expanded="True" />
               <Node name="MainPage.xaml" expanded="True">
@@ -22,11 +27,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Marathon PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

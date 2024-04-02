@@ -18756,11 +18756,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/student/Projects/Marathon/Marathon/Marathon.csproj",
+      "projectUniqueName": "/Users/student/Projects/mobile/Marathon/Marathon/Marathon.csproj",
       "projectName": "Marathon",
-      "projectPath": "/Users/student/Projects/Marathon/Marathon/Marathon.csproj",
+      "projectPath": "/Users/student/Projects/mobile/Marathon/Marathon/Marathon.csproj",
       "packagesPath": "/Users/student/.nuget/packages/",
-      "outputPath": "/Users/student/Projects/Marathon/Marathon/obj/",
+      "outputPath": "/Users/student/Projects/mobile/Marathon/Marathon/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

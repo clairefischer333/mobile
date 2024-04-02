@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>Marathon.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/student/Projects/Marathon/Marathon/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/student/Projects/mobile/Marathon/Marathon/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>Marathon.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/student/Projects/Marathon/Marathon</SourceProjectPath>
+      <SourceProjectPath>/Users/student/Projects/mobile/Marathon/Marathon</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>
