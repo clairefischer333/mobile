@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{FD3735EA-DADA-4F7F-9921-81996DEDC06E}|Default">
+  <MonoDevelop.Ide.ItemProperties.RoundedCorners PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RoundedCorners/MainPage.xaml">
+    <Files>
+      <File FileName="RoundedCorners/MainPage.xaml.cs" />
+      <File FileName="RoundedCorners/MainPage.xaml" Line="21" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RoundedCorners" expanded="True">
+            <Node name="RoundedCorners" expanded="True">
+              <Node name="Platforms" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Images" expanded="True">
+                  <Node name="bart2_main.png" selected="True" />
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MultiItemStartupConfigurations />
+</Properties>

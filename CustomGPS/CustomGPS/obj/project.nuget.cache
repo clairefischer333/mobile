@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e/domUFNVWcXMTanwK0jycTpbbsj1mDVB4eFrs5Namp+a3nZz1Xnxns4rOZwfn8PBgL1bF11v3IgfaoresU2hA==",
+  "dgSpecHash": "h/vOmsAZ3dIyZqi+hydiMPWLmEkycgmVworNb1NfAOwpDkdP2eaUOfufJG7nkIP20lQjvEumInf53wSiwzn/UQ==",
   "success": true,
-  "projectFilePath": "/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS.csproj",
+  "projectFilePath": "/Users/student/Projects/mobile/CustomGPS/CustomGPS/CustomGPS.csproj",
   "expectedPackageFiles": [
     "/Users/student/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/student/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",

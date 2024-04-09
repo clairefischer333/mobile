@@ -18450,11 +18450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS.csproj",
+      "projectUniqueName": "/Users/student/Projects/mobile/CustomGPS/CustomGPS/CustomGPS.csproj",
       "projectName": "CustomGPS",
-      "projectPath": "/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS.csproj",
+      "projectPath": "/Users/student/Projects/mobile/CustomGPS/CustomGPS/CustomGPS.csproj",
       "packagesPath": "/Users/student/.nuget/packages/",
-      "outputPath": "/Users/student/Projects/CustomGPS/CustomGPS/obj/",
+      "outputPath": "/Users/student/Projects/mobile/CustomGPS/CustomGPS/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
