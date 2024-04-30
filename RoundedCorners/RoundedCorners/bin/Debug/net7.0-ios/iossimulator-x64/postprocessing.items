@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>RoundedCorners.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/student/Projects/RoundedCorners/RoundedCorners/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/student/Projects/mobile/RoundedCorners/RoundedCorners/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>RoundedCorners.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/student/Projects/RoundedCorners/RoundedCorners</SourceProjectPath>
+      <SourceProjectPath>/Users/student/Projects/mobile/RoundedCorners/RoundedCorners</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

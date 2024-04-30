@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners.csproj": {}
+    "/Users/student/Projects/mobile/RoundedCorners/RoundedCorners/RoundedCorners.csproj": {}
   },
   "projects": {
-    "/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners.csproj": {
+    "/Users/student/Projects/mobile/RoundedCorners/RoundedCorners/RoundedCorners.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners.csproj",
+        "projectUniqueName": "/Users/student/Projects/mobile/RoundedCorners/RoundedCorners/RoundedCorners.csproj",
         "projectName": "RoundedCorners",
-        "projectPath": "/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners.csproj",
+        "projectPath": "/Users/student/Projects/mobile/RoundedCorners/RoundedCorners/RoundedCorners.csproj",
         "packagesPath": "/Users/student/.nuget/packages/",
-        "outputPath": "/Users/student/Projects/RoundedCorners/RoundedCorners/obj/",
+        "outputPath": "/Users/student/Projects/mobile/RoundedCorners/RoundedCorners/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
